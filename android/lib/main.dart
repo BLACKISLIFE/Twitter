@@ -57,7 +57,7 @@ class _HomepageState extends State<Homepage> {
             ),
             SizedBox(width: 20), // Add space between "For you" and "Following"
             Text(
-              "Following",
+              "Following ",
               style: TextStyle(
                 color: Colors.grey,
               ),
